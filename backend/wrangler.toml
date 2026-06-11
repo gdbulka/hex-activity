@@ -1,0 +1,8 @@
+name = "hex-backend"
+main = "src/index.js"
+compatibility_date = "2026-06-11"
+
+[vars]
+UPSTASH_REDIS_REST_URL = "https://main-stork-41347.upstash.io"
+UPSTASH_REDIS_REST_TOKEN = "AaGDAAIgcDE5YWE2MzQ2ZDc5YWQ0Mzk3OTFjYzBlNDFhNzBmYzVlZA"
+DISCORD_CLIENT_SECRET = "R6gP-kHDazozKjtUy5xu7fXgf-E05XmH"
